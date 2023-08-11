@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evehr-vn/capacitor-jailbreak-root-detection.git.git"
+    "url": "git+https://github.com/Balmukund-Jaiswar/capacitor-jailbreak-root-detection.git.git"
   },
   "bugs": {
-    "url": "https://github.com/evehr-vn/capacitor-jailbreak-root-detection.git/issues"
+    "url": "https://github.com/Balmukund-Jaiswar/capacitor-jailbreak-root-detection.git/issues"
   },
   "keywords": [
     "capacitor",
